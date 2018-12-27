@@ -1,4 +1,0 @@
-
-// all middlewares are here
-var Campground = require("../models/campground");    
-var Comment    = require("../models/comment");
